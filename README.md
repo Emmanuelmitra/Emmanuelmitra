@@ -1,11 +1,14 @@
 # Hi, I'm Emmanuel! 👋
 **Lead Data Scientist & Generative AI Developer** 🚀 Delivering production-grade LLM applications, Agentic frameworks, and scalable machine learning pipelines.
 
+### 🛠️ Core Expertise & Tech Stack
+* **+91-**7026710752**
+* **emmanuelanalyst@gmail.com
+* **[Data Engineering & Backend:** PySpark, SQL, FastAPI, MySQL](https://www.linkedin.com/in/emmanuel-devadas-0a13b2216)
+* **https://github.com/Emmanuelmitra
 
-+91-7026710752
-emmanuelanalyst@gmail.com
-https://www.linkedin.com/in/emmanuel-devadas-0a13b2216
-https://github.com/Emmanuelmitra
+
+
 ---
 
 ### 🛠️ Core Expertise & Tech Stack
